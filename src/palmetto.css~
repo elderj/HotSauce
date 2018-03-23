@@ -1,3 +1,13 @@
-body{
-  background-color:gray;
+body {
+    background-color: coral;
+}
+
+@font-face {
+  font-family: precious;
+  src: url("./fonts/precious.ttf") format("opentype");
+}
+
+/* Doesn't support capital letters*/
+.font-precious {
+    font-family: 'precious';
 }
