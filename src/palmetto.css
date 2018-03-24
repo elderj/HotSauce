@@ -2,6 +2,11 @@ body {
    background:coral !important;
 }
 
+#contentonpage {
+    margin-left: 80px !important;
+    margin-right: 100px !important;
+}
+
 @font-face {
   font-family: actionj;
   src: url("./fonts/actionj.ttf") format("opentype");
